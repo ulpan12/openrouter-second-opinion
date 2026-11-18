@@ -1,0 +1,3 @@
+We have proved that all users need this feature.
+Commit to a three-month build immediately; no further validation is needed.
+Success means the number of sign-ups after launch.
