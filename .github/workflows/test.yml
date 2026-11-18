@@ -26,7 +26,6 @@ jobs:
       PYTHONUTF8: '1'
       PYTHONDONTWRITEBYTECODE: '1'
       NO_PROXY: '127.0.0.1,localhost'
-      no_proxy: '127.0.0.1,localhost'
     steps:
       - name: Check out source
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
